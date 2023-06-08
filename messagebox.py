@@ -1363,7 +1363,7 @@ def message():
 
 
 rootpath = os.path.dirname(__file__)
-rootpath = os.path.join(rootpath, "sunsplayer")
+rootpath = os.path.join(rootpath, "songs")
 pattern = "*.mp3"
 
 # style.theme_use('winnative')
